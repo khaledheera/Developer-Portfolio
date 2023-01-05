@@ -85,7 +85,6 @@ main {
 /* about section style */
 .about {
     text-align: center;
-
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
@@ -93,6 +92,7 @@ main {
 }
 
 .section-title {
+    text-align: center;
     margin-bottom: 50px;
     font-weight: 700;
     font-size: 35px;
